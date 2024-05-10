@@ -9,6 +9,7 @@ Title : Pattern Best Approach - Sometime Change Loop (1 to n) to (n to 1).
                 1   2   *   *   *   *   *   *   2   1
                 1   *   *   *   *   *   *   *   *   1
 
+
 Date & Time : 2023-12-31 13:04:15
 */
 
